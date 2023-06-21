@@ -2,5 +2,5 @@
 
 ### Adding types to a variable
 ```typescript
-let variableName:type = variableValue
+let variableName:typeOfVariable = variableValue
 ```
