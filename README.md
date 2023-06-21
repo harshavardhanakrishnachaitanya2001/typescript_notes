@@ -4,3 +4,8 @@
 ```typescript
 let variableName:typeOfVariable = variableValue
 ```
+
+### To compile a typescpt file
+```javascript
+tsc fileName (in the terminal)
+```
