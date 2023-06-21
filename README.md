@@ -9,3 +9,8 @@ let variableName:typeOfVariable = variableValue
 ```javascript
 tsc fileName (in the terminal)
 ```
+
+### Setup a TS config file
+```javascript
+tsc --init
+```
